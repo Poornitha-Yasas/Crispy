@@ -22,7 +22,7 @@ Book A Table
 <ion-icon name="arrow-forward-outline" aria-hidden="true"></ion-icon>
 
 <ion-icon name="call-outline" aria-hidden="true"></ion-icon>
-000 (123) 456 89
+076 688 9001
 
 Book A Table
 <ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
